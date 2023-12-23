@@ -37,7 +37,8 @@ Favorite Apps:
         
 App Idea:
 
-    I would like to build an app that streamlines the course selection process. When course selection rolls around, its chaos at my university as students try to gather all their resources to figure out what classes to take. I would like my app to show the progression of a students major and core requirements. I would also like to have an algorithm that recommends courses based on the what a student is interested in. I want to implement a way in which friends can share what classes they have taken, are taking, and planning to take so that students can reach out and learn more about a certain class. Currently, the design of the university's course selection app is bulky and ugly, i want to improve the design so that it is easy on the eyes and makes my fellow peers more excited about course selection.
+
+I would like to build an app that streamlines the course selection process. When course selection rolls around, its chaos at my university as students try to gather all their resources to figure out what classes to take. I would like my app to show the progression of a students major and core requirements. I would also like to have an algorithm that recommends courses based on the what a student is interested in. I want to implement a way in which friends can share what classes they have taken, are taking, and planning to take so that students can reach out and learn more about a certain class. Currently, the design of the university's course selection app is bulky and ugly, i want to improve the design so that it is easy on the eyes and makes my fellow peers more excited about course selection.
         
     
 ## Notes

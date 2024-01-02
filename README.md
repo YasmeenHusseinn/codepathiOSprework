@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Codepath*
 
 Submitted by: **Yasmeen Hussein**
 
-**Name of your app** is an app that... [TODO] 
+**Color Counter** is an app that iterates numbers by one. Every multiple of 5 is changed to a different color and the background is also randomly changed.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -12,12 +12,20 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+## Additional Features
+- [x] A text box counting up
+- [x] Numbers in timer change color according to a condition
+- [x] Font of timer is changed
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/3f1ffe0162cc4585b7537c460103163d">
+    </a>
+    <a href="https://www.loom.com/share/3f1ffe0162cc4585b7537c460103163d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3f1ffe0162cc4585b7537c460103163d-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 Favorite Apps:
@@ -42,8 +50,7 @@ I would like to build an app that streamlines the course selection process. When
         
     
 ## Notes
-
-Describe any challenges encountered while building the app.
+Understanding xcodes interface and where to find things were challenging. 
 
 ## License
 
